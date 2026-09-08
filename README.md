@@ -1,6 +1,14 @@
-# Rapido Partner Portal Mockup (GigFolio Integration)
+<div align="center">
+
+# Rapido Mockup (GigFolio Integration)
 
 This is a modern, responsive frontend application serving as a mockup for the **Rapido Partner Portal**. It demonstrates the integration of a unified, cross-platform reputation system (**GigFolio**) into a specific gig economy platform (Rapido), emphasizing strict data isolation, security, and a seamless user experience.
+
+A separate platform rating system for Zomato delivery partners, integrated with the existing **[GigFolio](https://github.com/dhruvilrpatil/GigFolio)** architecture.
+
+**[Live Demo →](https://dhruvilrpatil.github.io/zomato-mockup/)**
+
+</div>
 
 ## 🚀 Features
 
